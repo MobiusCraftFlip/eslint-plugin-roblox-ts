@@ -73,6 +73,7 @@ export = makePlugin({
 
 					"misleading-luatuple-checks": "warn",
 					"lua-truthiness": "warn",
+					"prefer-task-library": "warn",
 				}),
 				"no-debugger": "error",
 				"no-labels": "error",

@@ -18,3 +18,4 @@ export * from "./noValueTypeOf";
 export * from "./noPrivateIdentifier";
 export * from "./noSpreadDestructuring";
 export * from "./noExportAssignmentLet";
+export * from "./preferTaskLibrary";
